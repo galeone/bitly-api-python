@@ -1,4 +1,4 @@
-import urllib
+import urllib.request
 from io import StringIO
 
 
